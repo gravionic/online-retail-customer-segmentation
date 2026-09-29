@@ -153,7 +153,7 @@ Traditional RFM scoring was compared with the final K-Means segmentation.
 ### K-Means Segmentation
 ![Kmeans Segments](images/segment_distribution-1.png)
 
-### RFM Segementation
+### RFM Segmentation
 ![RFM Segments](images/segment_distribution-2.png)
 
 ### Crosstab Comparison
