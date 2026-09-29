@@ -26,7 +26,7 @@ This project helps businesses:
 ## Project Structure
 
 ```text
-Customer-Intelligence-Segmentation/
+online-retail-customer-segmentation/
 │
 ├── app/
 │   ├── app.py
