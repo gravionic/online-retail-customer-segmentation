@@ -59,7 +59,7 @@ git clone https://github.com/gravionic/online-retail-customer-segmentation.git
 cd customer-segmentation
 ```
 
-## Technologies
+### Technologies
 
 `Python` `Pandas` `NumPy` `Plotly` `Scikit-learn` `Streamlit` `Matplotlib` `Joblib` 
 
