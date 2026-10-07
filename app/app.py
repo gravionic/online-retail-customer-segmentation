@@ -19,6 +19,17 @@ cluster_labels = jl.load(MODEL_DIR / "cluster_labels.pkl")
 st.set_page_config(page_title="Online Retail Customer Segmentation", page_icon="📊", layout="wide") 
 st.title("Online Retail Customer Segmentation")
 st.markdown("##### Identify customer segments using a trained K-Means model")
+st.info("""
+### Overview
+
+• Identifies customer segments based on Recency, Frequency, and Monetary (RFM) metrics
+
+• Groups customers into segments for targeted marketing and retention strategies using K-Means clustering
+
+• Identifies high-value, mid-value, and low-value customers
+
+• Provides customer summary and segment specific recommendations for business growth
+""")
 st.markdown("---")
 
 # 4. Load the cleaned dataset
