@@ -8,6 +8,7 @@ The analysis combines **RFM (Recency, Frequency, Monetary) analysis** with **K-M
 
 A **Streamlit application** is also included where a Customer ID can be entered to calculate their RFM metrics, identify their segment and provide the business recommendations accordingly.
 
+### Live Demo App: https://customer-segmentation-gravionic.streamlit.app/
 ---
 
 ## Business Problem
